@@ -1,7 +1,7 @@
 ---
 title: "Week 3 Assignment"
-author: "MassaBrasil"
-date: "20 de janeiro de 2018"
+author: "Ignatius Wang"
+date: "01/25/2019"
 output: html_document
 ---
 
